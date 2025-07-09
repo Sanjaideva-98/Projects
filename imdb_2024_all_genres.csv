@@ -1,0 +1,251 @@
+Title,Genre,Rating,Votes,Duration
+1. Gladiator II,Action,6.5,257000,148
+2. William Tell,Action,5.7,3400,134
+3. Dune: Part Two,Action,8.5,646000,166
+4. Twisters,Action,6.5,177000,122
+5. Kraven the Hunter,Action,5.5,65000,127
+6. Deadpool & Wolverine,Action,7.5,510000,128
+7. 40 Acres,Action,7.1,701,113
+8. The Ministry of Ungentlemanly Warfare,Action,6.8,140000,122
+9. Furiosa: A Mad Max Saga,Action,7.5,293000,148
+10. The Beekeeper,Action,6.3,163000,105
+11. Sonic the Hedgehog 3,Action,6.9,66000,110
+12. Carry-On,Action,6.5,174000,119
+13. Civil War,Action,7.0,245000,109
+14. The Fall Guy,Action,6.8,228000,126
+15. Fight or Flight,Action,6.4,15000,102
+16. Venom: The Last Dance,Action,6.0,132000,110
+17. The Count of Monte-Cristo,Action,7.6,38000,178
+18. Road House,Action,6.2,171000,121
+19. Argylle,Action,5.6,94000,139
+20. Godzilla x Kong: The New Empire,Action,6.0,125000,115
+21. Land of Bad,Action,6.6,53000,113
+22. Abigail,Action,6.5,101000,109
+23. Relay,Action,7.3,143,112
+24. Transformers One,Action,7.6,55000,104
+25. Rebel Ridge,Action,6.8,92000,131
+26. Borderlands,Action,4.7,51000,101
+27. Freaky Tales,Action,6.2,7700,107
+28. The Instigators,Action,6.2,39000,101
+29. Stand Your Ground,Action,4.9,405,99
+30. Kingdom of the Planet of the Apes,Action,6.8,156000,145
+31. Bad Boys: Ride or Die,Action,6.5,103000,115
+32. Madame Web,Action,4.1,104000,116
+33. Homestead,Action,5.2,4300,112
+34. Damsel,Action,6.1,112000,110
+35. The Unholy Trinity,Action,5.8,805,95
+36. Dirty Angels,Action,4.4,4200,104
+37. The Killer,Action,5.7,14000,126
+38. The Union,Action,5.4,54000,107
+39. Maharaja,Action,8.4,71000,141
+40. The Crow,Action,4.7,37000,111
+41. Red One,Action,6.3,143000,123
+42. Monkey Man,Action,6.8,94000,121
+43. Role Play,Action,5.5,19000,100
+44. Kung Fu Panda 4,Action,6.3,71000,94
+45. Drive-Away Dolls,Action,5.4,24000,84
+46. Canary Black,Action,5.4,12000,101
+47. The Lord of the Rings: The War of the Rohirrim,Action,6.3,33000,134
+48. Absolution,Action,5.2,9100,112
+49. The Killer's Game,Action,5.8,18000,104
+50. Elevation,Action,5.6,25000,91
+1. Riff Raff,Comedy,5.7,4500,103
+2. Anora,Comedy,7.5,208000,139
+3. Friendship,Comedy,7.0,14000,100
+4. Deadpool & Wolverine,Comedy,7.5,510000,128
+5. The Ministry of Ungentlemanly Warfare,Comedy,6.8,140000,122
+6. Sonic the Hedgehog 3,Comedy,6.9,66000,110
+7. The Fall Guy,Comedy,6.8,228000,126
+8. A Real Pain,Comedy,7.1,106000,90
+9. Fight or Flight,Comedy,6.4,15000,102
+10. Moana 2,Comedy,6.5,111000,100
+11. Beetlejuice Beetlejuice,Comedy,6.6,156000,105
+12. Kinds of Kindness,Comedy,6.5,62000,164
+13. Argylle,Comedy,5.6,94000,139
+14. Challengers,Comedy,7.0,160000,131
+15. Distant,Comedy,5.7,3900,87
+16. Sister Midnight,Comedy,5.9,1300,107
+17. Abigail,Comedy,6.5,101000,109
+18. Inside Out 2,Comedy,7.5,224000,96
+19. Borderlands,Comedy,4.7,51000,101
+20. Fly Me to the Moon,Comedy,6.6,52000,132
+21. Freaky Tales,Comedy,6.2,7700,107
+22. The Instigators,Comedy,6.2,39000,101
+23. The Idea of You,Comedy,6.3,75000,115
+24. IF,Comedy,6.4,60000,104
+25. On Becoming a Guinea Fowl,Comedy,7.0,1300,99
+26. Paddington in Peru,Comedy,6.7,26000,106
+27. Saturday Night,Comedy,6.9,33000,109
+28. F*** Marry Kill,Comedy,5.3,3300,97
+29. Despicable Me 4,Comedy,6.2,69000,94
+30. The Pee Pee Poo Poo Man,Comedy,8.1,37,79
+31. My Old Ass,Comedy,6.9,42000,89
+32. Ghostbusters: Frozen Empire,Comedy,6.1,96000,115
+33. The Visitor,Comedy,4.1,392,101
+34. Bad Boys: Ride or Die,Comedy,6.5,103000,115
+35. Kneecap,Comedy,7.6,20000,105
+36. Snack Shack,Comedy,7.0,14000,112
+37. The Supremes at Earl's All-You-Can-Eat,Comedy,6.5,1500,124
+38. The Day the Earth Blew Up: A Looney Tunes Movie,Comedy,6.9,6300,91
+39. A Different Man,Comedy,6.9,32000,112
+40. The Friend,Comedy,6.3,3300,119
+41. Sketch,Comedy,8.0,84,92
+42. The Union,Comedy,5.4,54000,107
+43. Bob Trevino Likes It,Comedy,7.5,2600,101
+44. A Family Affair,Comedy,5.4,38000,111
+45. Ricky Stanicky,Comedy,6.2,58000,113
+46. It's What's Inside,Comedy,6.6,44000,103
+47. Red One,Comedy,6.3,143000,123
+48. Mean Girls,Comedy,5.5,38000,112
+49. Role Play,Comedy,5.5,19000,100
+50. Kung Fu Panda 4,Comedy,6.3,71000,94
+1. The Life of Chuck,Drama,7.7,8100,111
+2. Gladiator II,Drama,6.5,257000,148
+3. Anora,Drama,7.5,208000,139
+4. We Live in Time,Drama,7.0,57000,108
+5. The Substance,Drama,7.2,322000,141
+6. Mon Potongo,Drama,4.7,707,149
+7. The Brutalist,Drama,7.3,95000,216
+8. William Tell,Drama,5.7,3400,134
+9. A Complete Unknown,Drama,7.3,95000,141
+10. Dune: Part Two,Drama,8.5,646000,166
+11. Conclave,Drama,7.4,207000,120
+12. Babygirl,Drama,5.8,65000,114
+13. The Order,Drama,6.8,51000,116
+14. 40 Acres,Drama,7.1,701,113
+15. Speak No Evil,Drama,6.8,112000,110
+16. I'm Still Here,Drama,8.2,114000,137
+17. Presence,Drama,6.1,30000,84
+18. Juror #2,Drama,7.0,106000,114
+19. The Fall Guy,Drama,6.8,228000,126
+20. A Real Pain,Drama,7.1,106000,90
+21. Pune Highway,Drama,5.2,203,121
+22. The Count of Monte-Cristo,Drama,7.6,38000,178
+23. Small Things Like These,Drama,6.7,28000,98
+24. Mufasa: The Lion King,Drama,6.6,72000,118
+25. Parthenope,Drama,6.6,15000,137
+26. The Assessment,Drama,6.6,13000,114
+27. The Shrouds,Drama,5.8,4200,120
+28. Kinds of Kindness,Drama,6.5,62000,164
+29. Road House,Drama,6.2,171000,121
+30. Horizon: An American Saga - Chapter 1,Drama,6.6,42000,181
+31. Challengers,Drama,7.0,160000,131
+32. Joker: Folie à Deux,Drama,5.2,167000,138
+33. Distant,Drama,5.7,3900,87
+34. Sister Midnight,Drama,5.9,1300,107
+35. The Last Showgirl,Drama,6.5,15000,88
+36. It Ends with Us,Drama,6.3,89000,130
+37. The Apprentice,Drama,7.1,61000,122
+38. Inside Out 2,Drama,7.5,224000,96
+39. Rebel Ridge,Drama,6.8,92000,131
+40. The Return,Drama,6.2,11000,116
+41. Here,Drama,6.3,23000,104
+42. Emilia Pérez,Drama,5.4,91000,132
+43. Freaky Tales,Drama,6.2,7700,107
+44. The Instigators,Drama,6.2,39000,101
+45. Caddo Lake,Drama,6.8,46000,103
+46. The Idea of You,Drama,6.3,75000,115
+47. IF,Drama,6.4,60000,104
+48. On Becoming a Guinea Fowl,Drama,7.0,1300,99
+49. The Salt Path,Drama,7.0,2400,115
+50. The Thicket,Drama,5.8,3700,108
+1. Eden,Thriller,6.4,3200,120
+2. Heretic,Thriller,7.0,167000,111
+3. The Surfer,Thriller,6.0,10000,100
+4. Twisters,Thriller,6.5,177000,122
+5. Kraven the Hunter,Thriller,5.5,65000,127
+6. Conclave,Thriller,7.4,207000,120
+7. Babygirl,Thriller,5.8,65000,114
+8. The Order,Thriller,6.8,51000,116
+9. 40 Acres,Thriller,7.1,701,113
+10. Speak No Evil,Thriller,6.8,112000,110
+11. The Beekeeper,Thriller,6.3,163000,105
+12. Carry-On,Thriller,6.5,174000,119
+13. The Rule of Jenny Pen,Thriller,6.2,6300,104
+14. Presence,Thriller,6.1,30000,84
+15. Civil War,Thriller,7.0,245000,109
+16. Juror #2,Thriller,7.0,106000,114
+17. Wolfs,Thriller,6.5,89000,108
+18. Longlegs,Thriller,6.6,195000,101
+19. Pune Highway,Thriller,5.2,203,121
+20. Alien: Romulus,Thriller,7.1,255000,119
+21. Venom: The Last Dance,Thriller,6.0,132000,110
+22. The Count of Monte-Cristo,Thriller,7.6,38000,178
+23. Salem's Lot,Thriller,5.6,36000,114
+24. Blink Twice,Thriller,6.5,112000,102
+25. The Shrouds,Thriller,5.8,4200,120
+26. Road House,Thriller,6.2,171000,121
+27. Please Don't Feed the Children,Thriller,4.8,485,94
+28. Smile 2,Thriller,6.7,115000,127
+29. Trap,Thriller,5.8,146000,105
+30. Argylle,Thriller,5.6,94000,139
+31. Joker: Folie à Deux,Thriller,5.2,167000,138
+32. Godzilla x Kong: The New Empire,Thriller,6.0,125000,115
+33. Distant,Thriller,5.7,3900,87
+34. The Luckiest Man in America,Thriller,6.2,4000,91
+35. Land of Bad,Thriller,6.6,53000,113
+36. Abigail,Thriller,6.5,101000,109
+37. Relay,Thriller,7.3,143,112
+38. Oddity,Thriller,6.7,47000,98
+39. Rebel Ridge,Thriller,6.8,92000,131
+40. Borderlands,Thriller,4.7,51000,101
+41. Emilia Pérez,Thriller,5.4,91000,132
+42. The Instigators,Thriller,6.2,39000,101
+43. Caddo Lake,Thriller,6.8,46000,103
+44. A Quiet Place: Day One,Thriller,6.3,156000,99
+45. Stand Your Ground,Thriller,4.9,405,99
+46. F*** Marry Kill,Thriller,5.3,3300,97
+47. Kingdom of the Planet of the Apes,Thriller,6.8,156000,145
+48. Bad Boys: Ride or Die,Thriller,6.5,103000,115
+49. Sharp Corner,Thriller,5.9,2000,110
+50. Subservience,Thriller,5.4,30000,106
+1. Gladiator II,Adventure,6.5,257000,148
+2. Dune: Part Two,Adventure,8.5,646000,166
+3. Twisters,Adventure,6.5,177000,122
+4. Kraven the Hunter,Adventure,5.5,65000,127
+5. The Wild Robot,Adventure,8.2,185000,102
+6. Deadpool & Wolverine,Adventure,7.5,510000,128
+7. Furiosa: A Mad Max Saga,Adventure,7.5,293000,148
+8. Sonic the Hedgehog 3,Adventure,6.9,66000,110
+9. Flow,Adventure,7.9,86000,85
+10. Monster Summer,Adventure,5.7,4600,97
+11. Venom: The Last Dance,Adventure,6.0,132000,110
+12. The Count of Monte-Cristo,Adventure,7.6,38000,178
+13. Mufasa: The Lion King,Adventure,6.6,72000,118
+14. Moana 2,Adventure,6.5,111000,100
+15. Godzilla x Kong: The New Empire,Adventure,6.0,125000,115
+16. Transformers One,Adventure,7.6,55000,104
+17. Inside Out 2,Adventure,7.5,224000,96
+18. The Return,Adventure,6.2,11000,116
+19. Borderlands,Adventure,4.7,51000,101
+20. Freaky Tales,Adventure,6.2,7700,107
+21. Paddington in Peru,Adventure,6.7,26000,106
+22. Despicable Me 4,Adventure,6.2,69000,94
+23. Ghostbusters: Frozen Empire,Adventure,6.1,96000,115
+24. Kingdom of the Planet of the Apes,Adventure,6.8,156000,145
+25. Bad Boys: Ride or Die,Adventure,6.5,103000,115
+26. The Day the Earth Blew Up: A Looney Tunes Movie,Adventure,6.9,6300,91
+27. Damsel,Adventure,6.1,112000,110
+28. The Unholy Trinity,Adventure,5.8,805,95
+29. Sketch,Adventure,8.0,84,92
+30. Red One,Adventure,6.3,143000,123
+31. Kung Fu Panda 4,Adventure,6.3,71000,94
+32. The Lord of the Rings: The War of the Rohirrim,Adventure,6.3,33000,134
+33. Kalki 2898 AD,Adventure,7.0,69000,180
+34. Spaceman,Adventure,5.7,44000,107
+35. Attack on Titan the Movie: The Last Attack,Adventure,9.1,18000,145
+36. Uglies,Adventure,4.7,34000,100
+37. The Garfield Movie,Adventure,5.7,25000,101
+38. Arthur the King,Adventure,7.0,35000,107
+39. Wallace & Gromit: Vengeance Most Fowl,Adventure,7.5,36000,82
+40. Solo Leveling: ReAwakening,Adventure,8.8,14000,121
+41. Atlas,Adventure,5.6,57000,118
+42. Survive,Adventure,4.6,3300,90
+43. Rebel Moon - Part Two: The Scargiver,Adventure,5.3,60000,122
+44. Spellbound,Adventure,5.5,8000,109
+45. The Goat Life,Adventure,7.1,48000,173
+46. Escape from the 21st Century,Adventure,6.4,1000,98
+47. Manjummel Boys,Adventure,8.2,29000,135
+48. Family Pack,Adventure,5.5,9700,94
+49. No Way Up,Adventure,4.6,11000,90
+50. Orion and the Dark,Adventure,6.3,18000,93
